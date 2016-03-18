@@ -1,6 +1,6 @@
 name: mffx
 favicon: null
-layout_spectrum: 0.5512260349933058
+layout_spectrum: 1
 typography_spectrum: 0.5902931264135987
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.012823970289900899
-  lightness: 0.2598174561280757
-  saturation: 0.4031024251598865
-  rhythmicContrast: 0.8099776082672179
+    - '#30c478'
+    - '#ffffff'
+    - '#c69431'
+    - '#3262c4'
+    - '#99e0b8'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
