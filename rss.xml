@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mffx]]></title>
         <description><![CDATA[mffx]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mffx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 16:47:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 16:56:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mffx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2084]]></title>
+            <description><![CDATA[<article><h1>2084</h1><p>In the year 2084, society is slowly being crushed into conformity by an all-powerful computer. But one man is surprisingly impervious to the malevolent machine's relentless conditioning. How is this possible? Perhaps, in this dystopian future, Ignorance really is Strength.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7969c4b4f66e16f25b77dd5163eac8f8b51f8f9.jpg"></article>]]></description>
+            <link>https://vimeo.com/channels/staffpicks/156679780</link>
+            <guid isPermaLink="false">0570fbb4-1138-407f-8594-de67d5a284e4</guid>
+            <pubDate>Fri, 18 Mar 2016 16:56:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Headline]]></title>
             <description><![CDATA[<article><h1>Headline</h1><p>some more things to tell</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b03d91-63da-4e1d-b90b-4102b440f917.jpg"></article>]]></description>
-            <link>undefinedheadline/index.html</link>
+            <link>https://thegrid.ai/mffx/headline/index.html</link>
             <guid isPermaLink="false">c8389e92-f218-4f48-85f0-d07a04cc5c40</guid>
             <pubDate>Fri, 18 Mar 2016 16:46:46 GMT</pubDate>
         </item>
