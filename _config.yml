@@ -1,7 +1,7 @@
 name: mffx
 favicon: null
-layout_spectrum: 0.51346
-typography_spectrum: 0.2606
+layout_spectrum: 0.75054
+typography_spectrum: 0.8934
 title: mainframe goes wild
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c69431'
     - '#3262c4'
     - '#99e0b8'
-  brandStrength: 0.75
-  lightness: 0.75
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.25
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
