@@ -4,7 +4,7 @@
         <description><![CDATA[mainframe goes wild]]></description>
         <link>https://thegrid.ai/mffx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 10:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 10:16:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mffx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[3D is what you need]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mffx/3d-is-what-you-need/index.html</link>
             <guid isPermaLink="false">83c23898-253c-4bf0-8540-4c52a90b561b</guid>
             <pubDate>Sat, 19 Mar 2016 10:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41f1e38e-0ad0-422c-b18e-db42bd539eab.jpg">]]></description>
-            <link>https://thegrid.ai/mffx/a171f2a7-2aec-4ae4-832f-a63548d2bec6/index.html</link>
-            <guid isPermaLink="false">a171f2a7-2aec-4ae4-832f-a63548d2bec6</guid>
-            <pubDate>Fri, 18 Mar 2016 17:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
