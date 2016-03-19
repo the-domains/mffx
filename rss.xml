@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mainframe goes wild]]></title>
-        <description><![CDATA[mainframe goes wild]]></description>
+        <title><![CDATA[mffx]]></title>
+        <description><![CDATA[mffx]]></description>
         <link>https://thegrid.ai/mffx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 10:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 11:09:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mffx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Sat, 19 Mar 2016 10:25:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Graphics is what we love]]></title>
-            <description><![CDATA[<article><h1>Graphics is what we love</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b604f788-ccc4-4dcf-8f1f-b3e9ace80519.png"></article>]]></description>
+            <title><![CDATA[Graphics are what we love!]]></title>
+            <description><![CDATA[<article><h1>Graphics are what we love!</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b604f788-ccc4-4dcf-8f1f-b3e9ace80519.png"></article>]]></description>
             <link>https://thegrid.ai/mffx/graphics-is-what-we-love/index.html</link>
             <guid isPermaLink="false">bba61d2b-b305-4eb9-b002-33819eb7019f</guid>
-            <pubDate>Sat, 19 Mar 2016 10:18:08 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 11:09:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3D is what you need]]></title>
