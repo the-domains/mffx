@@ -4,7 +4,7 @@
         <description><![CDATA[mffx]]></description>
         <link>https://thegrid.ai/mffx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 18:58:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mffx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mainframefx Post & Filmproduction]]></title>
@@ -32,7 +32,21 @@
             <description><![CDATA[<article><h1>Shooting? Hell Yeah!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aae06cb7-b18d-43ad-bd01-baa722ab5430.png"></article>]]></description>
             <link>https://thegrid.ai/mffx/shooting-hell-yeah/index.html</link>
             <guid isPermaLink="false">c0a90c1e-4dc1-457e-bc3b-bbdfe6935158</guid>
-            <pubDate>Sun, 20 Mar 2016 18:58:39 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 16:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graphics are what we love!]]></title>
+            <description><![CDATA[<article><h1>Graphics are what we love!</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b604f788-ccc4-4dcf-8f1f-b3e9ace80519.png"></article>]]></description>
+            <link>https://thegrid.ai/mffx/graphics-is-what-we-love/index.html</link>
+            <guid isPermaLink="false">bba61d2b-b305-4eb9-b002-33819eb7019f</guid>
+            <pubDate>Sat, 19 Mar 2016 11:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3D is what you need!]]></title>
+            <description><![CDATA[<article><h1>3D is what you need!</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da</p></article>]]></description>
+            <link>https://thegrid.ai/mffx/3d-is-what-you-need/index.html</link>
+            <guid isPermaLink="false">83c23898-253c-4bf0-8540-4c52a90b561b</guid>
+            <pubDate>Sat, 19 Mar 2016 11:13:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
