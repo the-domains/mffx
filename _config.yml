@@ -1,6 +1,6 @@
 name: mffx
 favicon: null
-layout_spectrum: 0.63631
+layout_spectrum: 0.75403
 typography_spectrum: 0.46191
 title: null
 cta:
@@ -22,8 +22,8 @@ color:
     - '#142811'
     - '#2d4514'
     - '#365b1a'
-  brandStrength: 0.1875
-  lightness: 0.625
+  brandStrength: 1
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
