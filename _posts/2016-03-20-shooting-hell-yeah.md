@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T16:15:49.475Z'
-dateModified: '2016-03-20T16:15:45.012Z'
+datePublished: '2016-03-20T18:58:39.342Z'
+dateModified: '2016-03-20T16:33:29.285Z'
 title: 'Shooting? Hell Yeah!'
 author: []
+sourcePath: _posts/2016-03-20-shooting-hell-yeah.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-shooting-hell-yeah.md
-published: true
 url: shooting-hell-yeah/index.html
 _type: Article
 
