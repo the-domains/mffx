@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T10:25:30.460Z'
-dateModified: '2016-03-19T10:25:09.204Z'
+datePublished: '2016-03-20T18:58:31.915Z'
+dateModified: '2016-03-20T18:57:57.365Z'
 title: 'mainframefx, this is how we think!'
 author: []
+sourcePath: _posts/2016-03-19-mainframefx-this-is-how-we-think.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-mainframefx-this-is-how-we-think.md
-published: true
-url: mainframefx-this-is-how-we-think/index.html
-_type: Article
+_type: Blurb
 
 ---
 # mainframefx, this is how we think!
@@ -27,4 +27,6 @@ _type: Article
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec,
+
+vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da
