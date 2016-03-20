@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-20T16:29:12.996Z'
-dateModified: '2016-03-20T16:29:07.694Z'
+datePublished: '2016-03-20T18:58:26.535Z'
+dateModified: '2016-03-20T17:55:12.946Z'
 title: 'mainframefx Post & Filmproduction'
 author: []
+sourcePath: _posts/2016-03-20-mainframefx-post-and-filmproduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-mainframefx-post-and-filmproduction.md
-published: true
 url: mainframefx-post-and-filmproduction/index.html
 _type: Article
 
