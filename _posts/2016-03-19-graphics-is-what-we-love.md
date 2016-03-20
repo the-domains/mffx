@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da'
-datePublished: '2016-03-19T11:09:25.632Z'
-dateModified: '2016-03-19T10:47:53.342Z'
+datePublished: '2016-03-20T18:58:49.336Z'
+dateModified: '2016-03-20T15:35:10.252Z'
 title: 'Graphics are what we love!'
 author: []
 sourcePath: _posts/2016-03-19-graphics-is-what-we-love.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: graphics-is-what-we-love/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Graphics are what we love!
