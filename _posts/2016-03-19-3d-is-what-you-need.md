@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras da'
-datePublished: '2016-03-19T11:13:27.177Z'
-dateModified: '2016-03-19T10:50:49.270Z'
+datePublished: '2016-03-20T18:58:55.447Z'
+dateModified: '2016-03-20T15:35:20.601Z'
 title: '3D is what you need!'
 author: []
 sourcePath: _posts/2016-03-19-3d-is-what-you-need.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: 3d-is-what-you-need/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 3D is what you need!
