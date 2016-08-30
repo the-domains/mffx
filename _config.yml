@@ -28,6 +28,9 @@ navigation:
   - name: mainframefx Post & Filmproduction
     id: f9118af7-9535-4697-93e7-115ab955ed28
     type: content
+  - name: 'mainframefx, this is how we think!'
+    id: 5c155e86-8624-4411-8034-461f3fd02162
+    type: content
 favicon: null
 title: null
 purpose: []
