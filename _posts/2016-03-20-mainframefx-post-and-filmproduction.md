@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-20T21:47:07.607Z'
-dateModified: '2016-03-20T19:02:01.624Z'
-title: 'mainframefx Post & Filmproduction'
-author: []
+description: Wir machen ihnen ein Angebot das sie nicht ablehnen können!
+datePublished: '2016-08-28T13:24:57.628Z'
+dateModified: '2016-08-28T13:24:57.172Z'
+title: mainframefx Post & Filmproduction
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-20-mainframefx-post-and-filmproduction.md
-published: true
 authors: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: ''
+  url: ''
+via: {}
+starred: true
 url: mainframefx-post-and-filmproduction/index.html
 _type: Article
 
