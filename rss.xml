@@ -4,7 +4,7 @@
         <description><![CDATA[mffx]]></description>
         <link>https://thegrid.ai/mffx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 13:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 13:33:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mffx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mainframefx Post & Filmproduction]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/mffx/mainframefx-post-and-filmproduction/index.html</link>
             <guid isPermaLink="false">f9118af7-9535-4697-93e7-115ab955ed28</guid>
             <pubDate>Sun, 28 Aug 2016 13:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we have done!]]></title>
+            <description><![CDATA[<article><h1>What we have done!</h1><p>Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74bbd24-8258-4358-bfb1-2e809e49469b.png"></article>]]></description>
+            <link>https://thegrid.ai/mffx/what-we-have-done/index.html</link>
+            <guid isPermaLink="false">06180577-620c-4a86-a6a2-25d51ea14699</guid>
+            <pubDate>Sun, 28 Aug 2016 13:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mainframefx, this is how we think!]]></title>
+            <description><![CDATA[<article><h1>mainframefx, this is how we think!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74048da5-5db1-4c64-81fc-05e6d919298a.png"></article>]]></description>
+            <link>https://thegrid.ai/mffx/mainframefx-this-is-how-we-think/index.html</link>
+            <guid isPermaLink="false">5c155e86-8624-4411-8034-461f3fd02162</guid>
+            <pubDate>Sun, 28 Aug 2016 13:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact us, you are welcome!]]></title>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/mffx/shooting-hell-yeah/index.html</link>
             <guid isPermaLink="false">c0a90c1e-4dc1-457e-bc3b-bbdfe6935158</guid>
             <pubDate>Sun, 20 Mar 2016 18:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we have done!]]></title>
-            <description><![CDATA[<article><h1>What we have done!</h1><p>Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74bbd24-8258-4358-bfb1-2e809e49469b.png"></article>]]></description>
-            <link>https://thegrid.ai/mffx/what-we-have-done/index.html</link>
-            <guid isPermaLink="false">06180577-620c-4a86-a6a2-25d51ea14699</guid>
-            <pubDate>Sun, 20 Mar 2016 18:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
