@@ -1,25 +1,27 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T18:58:31.915Z'
-dateModified: '2016-03-20T18:57:57.365Z'
+datePublished: '2016-08-28T13:25:50.043Z'
+dateModified: '2016-08-28T13:25:49.596Z'
 title: 'mainframefx, this is how we think!'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-19-mainframefx-this-is-how-we-think.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-_type: Blurb
+via: {}
+starred: false
+url: mainframefx-this-is-how-we-think/index.html
+_type: Article
 
 ---
 # mainframefx, this is how we think!
